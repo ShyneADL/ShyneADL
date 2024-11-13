@@ -6,7 +6,6 @@ Frontend Developer
 
 I am a Frontend developer and an SEO Expert with 3+ years of experience and I'm currently building cool web applications using JavaScript and its frameworks. In my leisure time, I enjoy exploring web technologies and Backend-as-a-Service to create cool applications. 🌍 I'm based in Lagos, Nigeria
 
-* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [here](http://ifeanyi-aladi.vercel.app)
 * ✉️  You can contact me at [benedictaladi@gmail.com](mailto:benedictaladi@gmail.com)
 * 🧠  I'm learning NextJS 15 and NodeJS
