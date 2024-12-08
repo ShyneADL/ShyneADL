@@ -8,7 +8,7 @@ I am a Frontend developer and an SEO Expert with 3+ years of experience and I'm 
 
 * 🖥️  See my portfolio at [here](http://ifeanyi-aladi.vercel.app)
 * ✉️  You can contact me at [benedictaladi@gmail.com](mailto:benedictaladi@gmail.com)
-* 🧠  I'm learning NextJS 15 and NodeJS
+* 🧠  I'm learning React Native and Expo
 * 🤝  I'm open to collaborating on Web3 Projects, Fintech Projects and projects that improve the general quality of life
 * ⚡  I play chess, love dogs and I dream to travel this world.
 
